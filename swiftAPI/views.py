@@ -15,9 +15,13 @@ import os
 # import pdb
 
 account_key = 'account'
+
 username_key = 'user'
+
 pass_key = 'passkey'
+
 storage_URL_key = 'storage_url'
+
 auth_token_key = 'auth_token'
 
 del_after = 172800
